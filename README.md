@@ -12,6 +12,6 @@ Provide valuable insights to business entities regarding the effectiveness of th
 3. Sales Forecasting:
 Leverage historic data and apply time serie generate sales forecasts for next 15 days
 
-4.Actionable Insights and Recommendations: 
+4. Actionable Insights and Recommendations: 
 End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfactions.
 
